@@ -1,0 +1,4 @@
+t.prefs_.set('color-palette-overrides', ["#000001", "#ff3b30", "#77d572", "#ffe438", "#72d5fd", "#000da6", "#4892f2", "#cccccc", "#7e7e87", "#ed2521", "#bbde9f", "#ff9500", "#4892f2", "#f09a37", "#327c7d", "#cccccc"]);
+t.prefs_.set('foreground-color', "#505050");
+t.prefs_.set('background-color', "#bfc0c1");
+t.prefs_.set('cursor-color', 'rgba(0,13,166,0.5)');
