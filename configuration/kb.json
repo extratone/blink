@@ -398,14 +398,29 @@
         "value" : "72656672657368656E76"
       },
       "modifiers" : 1179648
+    },
+    {
+      "input" : "l",
+      "action" : {
+        "type" : "hex",
+        "value" : "6370202E776565636861742F6C6F67732F6972632E746F776E2E2374696C6465746F776E2E776565636861746C6F6720746F776E636861742E747874"
+      },
+      "modifiers" : 917504
+    },
+    {
+      "input" : "",
+      "action" : {
+        "type" : "none"
+      },
+      "modifiers" : 0
     }
   ],
   "fn" : {
-    "shiftLoc" : 1,
+    "shiftLoc" : 0,
     "controlLoc" : 2,
     "optionLoc" : 0,
     "keys" : [
-      "16:1"
+
     ],
     "commandLoc" : 0,
     "action" : {
